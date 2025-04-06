@@ -29,7 +29,6 @@ use App\Http\Controllers\InserirEixoEstudanteController;
 // Rota de teste
 Route::get('/teste', [TesteController::class, 'teste']);
 
-| Essas rotas são carregadas pelo RouteServiceProvider dentro do grupo "web" alteração!!!!!
 // Rota principal
 Route::get('/', 'PrincipalController@Principal');
 

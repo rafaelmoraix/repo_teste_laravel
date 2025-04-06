@@ -17,7 +17,7 @@
 <body>
     <!-- Barra horizontal -->
     <div class="horizontal-bar">
-        <div class="logo">Supergando TEA</div>
+        <div class="logo">Supergando TEAssssssss</div>
         <div class="menu">
             <a href="#">  <i class="fa-solid fa-user"></i> MINHA CONTA </a>
             <
