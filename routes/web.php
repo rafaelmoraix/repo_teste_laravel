@@ -22,13 +22,14 @@ use App\Http\Controllers\InserirEixoEstudanteController;
 |--------------------------------------------------------------------------
 |
 | Aqui é onde você pode registrar as rotas da sua aplicação.
-| Essas rotas são carregadas pelo RouteServiceProvider dentro do grupo "web".
+| Essas rotas são carregadas pelo RouteServiceProvider dentro do grupo "web" alteração!!!!!!!!!.
 |
 */
 
 // Rota de teste
 Route::get('/teste', [TesteController::class, 'teste']);
 
+| Essas rotas são carregadas pelo RouteServiceProvider dentro do grupo "web" alteração!!!!!
 // Rota principal
 Route::get('/', 'PrincipalController@Principal');
 
